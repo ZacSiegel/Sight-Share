@@ -4,6 +4,6 @@ A simple social media app that uses the MERN stack. Users can upload pictures wi
 
 Demo can be seen at https://sightshare.netlify.app/
 
-Planned developments
+Planned development
 1. Implement Authentication with user sign-in/signup
 2. Enable search capabilities by searching hashtags
