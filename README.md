@@ -6,4 +6,4 @@ Demo can be seen at https://sightshare.netlify.app/
 
 Planned development/improvements
 1. Implement Authentication with user sign-in/signup
-2. Enable search capabilities by searching hashtags
+2. Enable search capabilities by allowing users to search hashtags
